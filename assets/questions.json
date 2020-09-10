@@ -1,0 +1,62 @@
+[
+    {
+        "question": "Paris est la capitale de la France ?",
+        "response": true,
+        "explaination": "Et oui ! Paris est bien la capitale de la france",
+        "imagePath": "paris.jpg"
+    },
+    {
+        "question": "Les BCAA sont des acides aminés essentiels en Musculation ?",
+        "response": true,
+        "explaination": "BCAA aide à la recupération musculaire.. :D",
+        "imagePath": "bcaa.jpg"
+    },
+    {
+        "question": "Limoges est la plus grande ville du monde ?",
+        "response": false,
+        "explaination": "C'est pas trés grand Limoges, ahah!",
+        "imagePath": "limoges.jpg"
+    },
+    {
+        "question": "La lune est une planète ?",
+        "response": false,
+        "explaination": "C'est le satellite naturel de la terre",
+        "imagePath": "lune.jpg"
+    },
+    {
+        "question": "Twitter est le réseau social le plus utilisé ?",
+        "response": false,
+        "explaination": "Ce n'était pas lui!",
+        "imagePath": "twitter.jpg"
+    },
+    {
+        "question": "Flutter est un langage de programmation ?",
+        "response": false,
+        "explaination": "Flutter est un kit de développement, un Framework",
+        "imagePath": "flutter.jpg"
+    },
+    {
+        "question": "Minecraft est un jeu vidéo ?",
+        "response": true,
+        "explaination": "Un jeu trés cubique!",
+        "imagePath": "minecraft.jpg"
+    },
+    {
+        "question": "Lucifer est une serie original Netflix",
+        "response": true,
+        "explaination": "La serie a été rachetée par Netflix",
+        "imagePath": "lucifer.jpg"
+    },
+    {
+        "question": "Louis XVI s'est suicidé",
+        "response": false,
+        "explaination": "Il s'est pas suicidé mais il aurit dû!",
+        "imagePath": "louisxvi.jpg"
+    },
+    {
+        "question": "Les prochains JO seront à Paris ?",
+        "response": true,
+        "explaination": "Oui, ce sera en 2024!",
+        "imagePath": "jo.jpg"
+    }
+]
